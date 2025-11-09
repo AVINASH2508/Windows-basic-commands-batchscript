@@ -24,40 +24,65 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
+![alt text](<Screenshot 2025-11-09 162952.png>)
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
+![alt text](<Screenshot 2025-11-09 162959.png>)
+
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
 
+![alt text](<Screenshot 2025-11-09 163107.png>)
+
+
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
 
+![alt text](<Screenshot 2025-11-09 163147.png>)
+
+
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
+![alt text](<Screenshot 2025-11-09 163248.png>)
+
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
 
+![alt text](<Screenshot 2025-11-09 184511.png>)
+
+
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
+![alt text](<Screenshot 2025-11-09 163343.png>)
+
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
+![alt text](<Screenshot 2025-11-09 163343-1.png>)
+
+
 ## COMMAND AND OUTPUT
 
-
 Compare the file hello.txt and rose.txt
+
+![alt text](<Screenshot 2025-11-09 163409.png>)
+
 
 ## COMMAND AND OUTPUT
 
@@ -65,7 +90,7 @@ Compare the file hello.txt and rose.txt
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-
+![alt text](<Screenshot 2025-11-09 163938.png>)
 
 
 ## OUTPUT
@@ -81,21 +106,19 @@ Repeat the process if the user enters Y, and exit with a thank-you message if th
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
+![alt text](<Screenshot 2025-11-09 183151.png>)
+
 
 ## OUTPUT
-
-
-
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 
+![alt text](<Screenshot 2025-11-09 183233.png>)
+
 
 
 ## OUTPUT
-
-
-
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -105,8 +128,12 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
-## OUTPUT
 
+![alt text](<Screenshot 2025-11-09 183550.png>)
+
+
+
+## OUTPUT
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -115,7 +142,7 @@ Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
 
-## OUTPUT
+![alt text](<Screenshot 2025-11-09 183702.png>)
 
 
 
